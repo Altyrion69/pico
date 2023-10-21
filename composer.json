@@ -1,0 +1,17 @@
+{
+    "name": "utilisateur/pico",
+    "autoload": {
+        "psr-4": {
+            "Utilisateur\\Pico\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Altyrion69",
+            "email": "altyrion@hotmail.fr"
+        }
+    ],
+    "require": {
+        "picocss/pico": "^1.5"
+    }
+}
